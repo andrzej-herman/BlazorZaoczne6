@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zaliczenie", "zaliczenie.csproj", "{03E9E451-BBD4-49A2-98E7-1A8C3221E37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E9E451-BBD4-49A2-98E7-1A8C3221E37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E9E451-BBD4-49A2-98E7-1A8C3221E37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E9E451-BBD4-49A2-98E7-1A8C3221E37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E9E451-BBD4-49A2-98E7-1A8C3221E37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A3D0A7-91E7-429E-B69F-772E306BCE08}
+	EndGlobalSection
+EndGlobal
